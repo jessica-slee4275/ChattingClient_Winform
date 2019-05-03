@@ -1,0 +1,10 @@
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\obj\Debug\ChattingClient.csprojAssemblyReference.cache
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\obj\Debug\ChattingClient.ChattingClient.resources
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\obj\Debug\ChattingClient.Properties.Resources.resources
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\obj\Debug\ChattingClient.csproj.GenerateResource.cache
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\obj\Debug\ChattingClient.csproj.CoreCompileInputs.cache
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\bin\Debug\ChattingClient.exe.config
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\bin\Debug\ChattingClient.exe
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\bin\Debug\ChattingClient.pdb
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\obj\Debug\ChattingClient.exe
+C:\Users\asdfk\source\repos\ChattingClient\ChattingClient\obj\Debug\ChattingClient.pdb
